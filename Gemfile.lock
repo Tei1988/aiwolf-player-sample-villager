@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    aiwolf-client (0.1.2)
+      eventmachine
+      thor
+    eventmachine (1.2.3)
+    ffaker (2.6.0)
+    thor (0.19.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  aiwolf-client!
+  ffaker!
+
+BUNDLED WITH
+   1.15.1
